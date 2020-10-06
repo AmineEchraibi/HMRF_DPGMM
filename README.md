@@ -1,4 +1,4 @@
-# Hidden Markov Random Field Dirichlet Process Gaussian Mixture Model For semi-supervised clustering
+# Hidden Markov Random Field Dirichlet Process Gaussian Mixture Model for Semi-Supervised Clustering
 
 In the following we explain some details of Hidden Markov Random Field Dirichlet Process Gaussian Mixture Model, for more details please visit (https://hal.archives-ouvertes.fr/hal-02372337/document)
 ## Graphical model
