@@ -14,4 +14,3 @@
 
 ![alt text](images/var1.png?raw=true)
 ![alt text](images/var2.png?raw=true)
-
