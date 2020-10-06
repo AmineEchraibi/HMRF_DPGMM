@@ -2,4 +2,4 @@
 
 ## Model descrition
 
-![alt text](https://github.com/AmineEchraibi/HMRF_DPGMM/master/images/hmrfdpgmm.png?raw=true)
+![alt text](images/hmrfdpgmm.png?raw=true)
