@@ -14,3 +14,12 @@ In the following we explain some details of Hidden Markov Random Field Dirichlet
 ## Variational Inference
 
 ![alt text](images/var2.png?raw=true)
+
+## Code instructions
+
+```python
+from model import HMRF_GMM
+hmrf_dpgmm = HMRF_GMM(Data, Truncation_level, Partial_labels)
+hmrf_dpgmm.Inference()
+Clusters = hmrf_dgpgmm.infer_clusters()
+```
