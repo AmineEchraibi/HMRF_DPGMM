@@ -9,3 +9,9 @@
 ![alt text](images/math1.png?raw=true)
 ![alt text](images/math2.png?raw=true)
 ![alt text](images/math3.png?raw=true)
+
+## Variational Inference
+
+![alt text](images/var1.png?raw=true)
+![alt text](images/var2.png?raw=true)
+
